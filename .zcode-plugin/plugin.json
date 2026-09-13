@@ -12,8 +12,15 @@
     "type": "git",
     "url": "https://github.com/DevGenHub/zcode-rusifikator-plugin"
   },
-  "keywords": ["zcode", "zai", "russian", "localization", "rusifikator"],
+  "keywords": [
+    "zcode",
+    "zai",
+    "russian",
+    "localization",
+    "rusifikator"
+  ],
   "skills": "./skills",
   "commands": "./commands",
-  "hooks": "./hooks"
+  "hooks": "./hooks",
+  "displayName": "ZCode (Ru)"
 }
