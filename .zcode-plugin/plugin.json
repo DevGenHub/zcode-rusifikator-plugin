@@ -1,6 +1,7 @@
 {
   "name": "zcode-rusifikator",
   "version": "1.0.1",
+  "icon": "icon.png",
   "description": "Русификатор интерфейса ZCode: полный русский перевод (~5000 строк), команда /rusifikator и автопроверка после обновлений",
   "author": {
     "name": "DevGenHub",
