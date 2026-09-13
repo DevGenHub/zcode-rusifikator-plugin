@@ -10,6 +10,7 @@
       "source": "./",
       "description": "Русификатор интерфейса ZCode: полный русский перевод (~5000 строк), команда /rusifikator и авто-восстановление после обновлений",
       "version": "1.0.1",
+      "icon": "https://raw.githubusercontent.com/DevGenHub/zcode-rusifikator-plugin/main/icon.png",
       "author": {
         "name": "DevGenHub"
       },
