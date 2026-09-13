@@ -1,0 +1,19 @@
+{
+  "name": "zcode-rusifikator-plugin",
+  "owner": {
+    "name": "DevGenHub",
+    "url": "https://github.com/DevGenHub"
+  },
+  "plugins": [
+    {
+      "name": "zcode-rusifikator",
+      "source": "./",
+      "description": "Русификатор интерфейса ZCode: полный русский перевод (~5000 строк), команда /rusifikator и авто-восстановление после обновлений",
+      "version": "1.0.1",
+      "author": {
+        "name": "DevGenHub"
+      },
+      "keywords": ["zcode", "russian", "localization"]
+    }
+  ]
+}
